@@ -1,0 +1,101 @@
+Edad,Sexo,Escuela,Tiempo_Estudio,Apoyo_Academico,Dificultad_Algebra,Ansiedad_Examen,Apoyo_Familiar,Lugar_Estudio,Reprobacion_Algebra
+16,Prefiero no decirlo,Pública,1-3 horas,No,Muy fácil,Nunca,A veces,No,Reprobado
+16,Prefiero no decirlo,Pública,1-3 horas,A veces,Fácil,A veces,No,No,Reprobado
+14,Prefiero no decirlo,Pública,1-3 horas,A veces,Muy fácil,Rara vez,No,Sí,Reprobado
+15,Prefiero no decirlo,Privada,1-3 horas,"Sí, regularmente",Fácil,Siempre,No,Sí,Reprobado
+15,Femenino,Privada,1-3 horas,No,Muy fácil,Rara vez,No,Sí,Reprobado
+14,Prefiero no decirlo,Pública,1-3 horas,"Sí, regularmente",Fácil,Nunca,No,Sí,Reprobado
+14,Prefiero no decirlo,Pública,1-3 horas,A veces,Fácil,Rara vez,A veces,No,Reprobado
+14,Femenino,Privada,1-3 horas,"Sí, regularmente",Fácil,Rara vez,No,Sí,Reprobado
+15,Prefiero no decirlo,Pública,1-3 horas,No,Muy difícil,Siempre,A veces,No,Aprobado
+15,Femenino,Privada,1-3 horas,"Sí, regularmente",Fácil,Siempre,No,Sí,Reprobado
+16,Prefiero no decirlo,Pública,1-3 horas,No,Muy fácil,Siempre,"Sí, constantemente",No,Reprobado
+15,Masculino,Pública,1-3 horas,"Sí, regularmente",Fácil,Rara vez,A veces,Sí,Reprobado
+15,Prefiero no decirlo,Pública,1-3 horas,No,Difícil,Siempre,A veces,No,Aprobado
+14,Femenino,Privada,1-3 horas,No,Muy fácil,Rara vez,No,Sí,Aprobado
+15,Masculino,Pública,1-3 horas,A veces,Muy fácil,Siempre,A veces,Sí,Aprobado
+14,Prefiero no decirlo,Privada,1-3 horas,"Sí, regularmente",Difícil,Rara vez,No,Sí,Aprobado
+16,Prefiero no decirlo,Privada,1-3 horas,A veces,Muy fácil,Siempre,"Sí, constantemente",Sí,Reprobado
+15,Prefiero no decirlo,Pública,1-3 horas,No,Difícil,Nunca,"Sí, constantemente",No,Aprobado
+15,Prefiero no decirlo,Privada,1-3 horas,"Sí, regularmente",Fácil,A veces,No,No,Reprobado
+16,Femenino,Privada,1-3 horas,A veces,Fácil,Rara vez,A veces,No,Reprobado
+14,Prefiero no decirlo,Privada,1-3 horas,"Sí, regularmente",Muy fácil,A veces,"Sí, constantemente",Sí,Aprobado
+14,Femenino,Privada,4-6 horas,"Sí, regularmente",Muy difícil,Siempre,No,No,Aprobado
+16,Prefiero no decirlo,Pública,4-6 horas,"Sí, regularmente",Fácil,Rara vez,A veces,No,Aprobado
+16,Masculino,Privada,4-6 horas,A veces,Muy difícil,Nunca,No,No,Reprobado
+16,Femenino,Privada,4-6 horas,"Sí, regularmente",Difícil,Rara vez,A veces,Sí,Aprobado
+14,Prefiero no decirlo,Privada,4-6 horas,"Sí, regularmente",Difícil,Nunca,No,No,Aprobado
+16,Masculino,Privada,4-6 horas,A veces,Difícil,A veces,A veces,No,Reprobado
+16,Femenino,Pública,4-6 horas,No,Muy difícil,Rara vez,No,Sí,Aprobado
+14,Prefiero no decirlo,Privada,4-6 horas,No,Muy fácil,A veces,No,No,Aprobado
+14,Masculino,Pública,4-6 horas,A veces,Muy fácil,Rara vez,A veces,No,Reprobado
+15,Masculino,Privada,4-6 horas,"Sí, regularmente",Muy difícil,Nunca,"Sí, constantemente",No,Reprobado
+14,Masculino,Privada,4-6 horas,"Sí, regularmente",Muy fácil,A veces,A veces,No,Reprobado
+14,Femenino,Pública,4-6 horas,A veces,Difícil,Nunca,No,No,Reprobado
+16,Prefiero no decirlo,Privada,4-6 horas,No,Difícil,A veces,A veces,No,Reprobado
+15,Femenino,Privada,4-6 horas,No,Muy fácil,A veces,A veces,No,Reprobado
+16,Masculino,Pública,4-6 horas,A veces,Fácil,Rara vez,A veces,No,Reprobado
+16,Prefiero no decirlo,Pública,4-6 horas,A veces,Muy fácil,Nunca,No,No,Reprobado
+16,Prefiero no decirlo,Privada,4-6 horas,No,Muy difícil,A veces,No,Sí,Reprobado
+14,Femenino,Privada,4-6 horas,A veces,Muy difícil,Rara vez,No,Sí,Aprobado
+14,Femenino,Privada,4-6 horas,No,Muy difícil,A veces,"Sí, constantemente",No,Reprobado
+14,Femenino,Pública,4-6 horas,"Sí, regularmente",Difícil,Siempre,No,No,Aprobado
+16,Masculino,Pública,4-6 horas,No,Muy difícil,Nunca,No,Sí,Reprobado
+15,Femenino,Privada,4-6 horas,A veces,Muy fácil,Rara vez,No,No,Reprobado
+15,Masculino,Pública,4-6 horas,A veces,Muy fácil,Siempre,"Sí, constantemente",No,Aprobado
+16,Prefiero no decirlo,Privada,4-6 horas,"Sí, regularmente",Difícil,Nunca,"Sí, constantemente",No,Reprobado
+14,Femenino,Pública,4-6 horas,"Sí, regularmente",Difícil,Nunca,No,No,Reprobado
+16,Femenino,Pública,4-6 horas,A veces,Fácil,Rara vez,No,No,Reprobado
+15,Masculino,Privada,Más de 6 horas,A veces,Difícil,Siempre,A veces,No,Aprobado
+14,Prefiero no decirlo,Privada,Más de 6 horas,A veces,Muy difícil,Rara vez,"Sí, constantemente",No,Reprobado
+15,Femenino,Pública,Más de 6 horas,"Sí, regularmente",Muy difícil,A veces,No,Sí,Aprobado
+14,Masculino,Privada,Más de 6 horas,A veces,Muy difícil,Nunca,"Sí, constantemente",Sí,Reprobado
+15,Prefiero no decirlo,Privada,Más de 6 horas,A veces,Muy fácil,Rara vez,No,No,Reprobado
+15,Femenino,Privada,Más de 6 horas,No,Muy difícil,Nunca,"Sí, constantemente",Sí,Aprobado
+14,Femenino,Pública,Más de 6 horas,"Sí, regularmente",Fácil,A veces,No,Sí,Reprobado
+16,Femenino,Privada,Más de 6 horas,A veces,Muy fácil,Siempre,"Sí, constantemente",Sí,Reprobado
+16,Femenino,Pública,Más de 6 horas,A veces,Muy difícil,A veces,"Sí, constantemente",No,Reprobado
+15,Masculino,Privada,Más de 6 horas,No,Difícil,Siempre,No,No,Reprobado
+15,Masculino,Pública,Más de 6 horas,No,Muy difícil,Siempre,No,Sí,Reprobado
+15,Prefiero no decirlo,Privada,Más de 6 horas,A veces,Difícil,Siempre,A veces,Sí,Reprobado
+16,Prefiero no decirlo,Pública,Más de 6 horas,No,Difícil,A veces,A veces,Sí,Aprobado
+15,Prefiero no decirlo,Pública,Más de 6 horas,A veces,Difícil,A veces,No,No,Reprobado
+16,Prefiero no decirlo,Privada,Más de 6 horas,A veces,Muy difícil,Nunca,A veces,No,Aprobado
+15,Masculino,Privada,Más de 6 horas,No,Muy fácil,Nunca,A veces,Sí,Aprobado
+16,Femenino,Pública,Más de 6 horas,"Sí, regularmente",Muy fácil,Siempre,No,No,Reprobado
+14,Femenino,Privada,Más de 6 horas,A veces,Muy fácil,A veces,No,Sí,Aprobado
+14,Prefiero no decirlo,Privada,Más de 6 horas,A veces,Muy difícil,Siempre,"Sí, constantemente",Sí,Reprobado
+16,Prefiero no decirlo,Privada,Más de 6 horas,A veces,Difícil,A veces,A veces,Sí,Aprobado
+16,Prefiero no decirlo,Pública,Más de 6 horas,A veces,Muy fácil,A veces,No,No,Reprobado
+15,Prefiero no decirlo,Privada,Más de 6 horas,A veces,Muy fácil,Nunca,"Sí, constantemente",No,Reprobado
+14,Femenino,Pública,Más de 6 horas,A veces,Muy difícil,A veces,"Sí, constantemente",Sí,Aprobado
+16,Femenino,Pública,Más de 6 horas,"Sí, regularmente",Fácil,Nunca,"Sí, constantemente",Sí,Reprobado
+15,Prefiero no decirlo,Privada,Menos de 1 hora,No,Muy fácil,Rara vez,"Sí, constantemente",Sí,Reprobado
+16,Prefiero no decirlo,Pública,Menos de 1 hora,A veces,Muy difícil,Rara vez,A veces,Sí,Reprobado
+15,Femenino,Pública,Menos de 1 hora,No,Muy fácil,Nunca,No,No,Reprobado
+15,Masculino,Pública,Menos de 1 hora,"Sí, regularmente",Difícil,A veces,No,Sí,Aprobado
+16,Masculino,Pública,Menos de 1 hora,A veces,Muy fácil,Rara vez,"Sí, constantemente",No,Reprobado
+16,Femenino,Privada,Menos de 1 hora,"Sí, regularmente",Muy difícil,Siempre,A veces,Sí,Reprobado
+14,Prefiero no decirlo,Pública,Menos de 1 hora,"Sí, regularmente",Muy fácil,Nunca,No,Sí,Reprobado
+16,Masculino,Privada,Menos de 1 hora,No,Muy fácil,Siempre,A veces,Sí,Reprobado
+16,Femenino,Privada,Menos de 1 hora,"Sí, regularmente",Fácil,Nunca,No,No,Aprobado
+16,Masculino,Privada,Menos de 1 hora,"Sí, regularmente",Muy difícil,A veces,No,Sí,Reprobado
+16,Femenino,Pública,Menos de 1 hora,"Sí, regularmente",Muy difícil,Siempre,A veces,No,Reprobado
+15,Prefiero no decirlo,Privada,Menos de 1 hora,"Sí, regularmente",Difícil,Nunca,"Sí, constantemente",Sí,Aprobado
+16,Femenino,Pública,Menos de 1 hora,A veces,Fácil,Siempre,No,No,Reprobado
+16,Masculino,Privada,Menos de 1 hora,No,Difícil,Siempre,"Sí, constantemente",No,Aprobado
+16,Femenino,Privada,Menos de 1 hora,"Sí, regularmente",Muy fácil,Rara vez,A veces,Sí,Reprobado
+14,Prefiero no decirlo,Pública,Menos de 1 hora,A veces,Fácil,Nunca,"Sí, constantemente",No,Aprobado
+16,Prefiero no decirlo,Privada,Menos de 1 hora,"Sí, regularmente",Difícil,A veces,A veces,No,Reprobado
+15,Femenino,Pública,Menos de 1 hora,A veces,Muy fácil,Siempre,No,Sí,Reprobado
+15,Prefiero no decirlo,Privada,Menos de 1 hora,A veces,Muy difícil,Rara vez,No,No,Reprobado
+15,Femenino,Pública,Menos de 1 hora,A veces,Fácil,Siempre,No,No,Reprobado
+15,Prefiero no decirlo,Pública,Menos de 1 hora,No,Fácil,A veces,A veces,No,Reprobado
+14,Masculino,Pública,Menos de 1 hora,No,Fácil,Siempre,"Sí, constantemente",Sí,Reprobado
+16,Masculino,Privada,Menos de 1 hora,A veces,Difícil,Rara vez,No,Sí,Aprobado
+14,Masculino,Privada,Menos de 1 hora,A veces,Difícil,Rara vez,No,Sí,Aprobado
+14,Femenino,Pública,Menos de 1 hora,"Sí, regularmente",Muy difícil,A veces,"Sí, constantemente",Sí,Reprobado
+14,Prefiero no decirlo,Pública,Menos de 1 hora,No,Difícil,Rara vez,A veces,No,Reprobado
+15,Masculino,Privada,Menos de 1 hora,No,Difícil,Rara vez,A veces,No,Aprobado
+16,Masculino,Privada,Menos de 1 hora,No,Muy fácil,Rara vez,A veces,Sí,Aprobado
+16,Masculino,Privada,Menos de 1 hora,A veces,Muy difícil,Nunca,"Sí, constantemente",Sí,Reprobado
